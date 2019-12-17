@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tarea
+comment0.text=\r\n\ Clase\ para\ las\ Tareas\ que\ tienen\ una\ descripcion\ y\ pueden\ o\ no\ estar\ \r\n\ completadas\r\n
+comment1.params=tareaNueva
+comment1.target=Tarea(java.lang.String)
+comment1.text=\r\n\ Contructor\ de\ la\ clase\ Tarea\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTextoTarea()
+comment2.text=\r\n\ 01.\ M\u00E9todo\ get\ que\ obtiene\ el\ texto\ de\ la\ tarea\r\n
+comment3.params=
+comment3.target=boolean\ getTareaCompletada()
+comment3.text=\r\n\ 02.\ M\u00E9todo\ get\ que\ indica\ que\ la\ tarea\ no\ est\u00E1\ completada.\r\n
+comment4.params=textoTarea
+comment4.target=void\ setTextoTarea(java.lang.String)
+comment4.text=\r\n\ 03\ M\u00E9todo\ set\ que\ permite\ cambiar\ el\ texto\ de\ la\ tarea\r\n
+comment5.params=
+comment5.target=void\ setCompletada()
+comment5.text=\r\n\ 04.\ M\u00E9todo\ set\ que\ cambia\ el\ estado\ de\ la\ tarea\ a\ completado\r\n
+numComments=6
